@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+ 
+.montserrat {
+    font-family: Monserrat;
+}
+
+.bg-blue {
+    background-color: #0039A6;
+}
+
+.bg-sky {
+    background-color: #64B4E6;
+}
+
+.bg-green {
+    background-color: #05BE50;
+}
+
+.text-gray {
+    color: #646566;
+}
+
+.text-blue {
+    color: #0039A6;
+}
+
+.banner-radius1 {
+    border-radius: 0% 0% 10% 0%;
+}
+
+.banner-radius2 {
+    border-radius: 10% 0% 10% 0%;
+}
+
+.whatsapp {
+    background-color: #25d366;
+}
+
+.shadow-side {
+    box-shadow: 10px 0 4px -4px #ECECEC, -10px 0 4px -4px #ECECEC;  
+}
